@@ -42,11 +42,13 @@ Aplicação mobile-first para controle de gastos em compras de mercado.
 
 <div align="center">
 
-![Alexandre GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandreramosdev&show_icons=true&theme=transparent&hide_title=true)
+![GitHub followers](https://img.shields.io/github/followers/alexandreramosdev?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/alexandreramosdev?style=for-the-badge)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreramosdev&layout=compact&theme=transparent)
 
 </div>
+
+
 
 ---
 
