@@ -32,9 +32,9 @@ Sistema de agendamento, dashboard e autenticação.
 
 ---
 
-### **App Mobile Lista de Compras**
+### **Conta Antes**
 Aplicação mobile-first para controle de gastos em compras de mercado.  
-**Stack:** React · Next.js
+**Stack:** React · Next.js · Typescript · Tailwind
 
 ---
 
