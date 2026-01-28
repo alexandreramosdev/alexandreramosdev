@@ -61,7 +61,7 @@ Atuar profissionalmente como **Estagiário / Desenvolvedor Júnior (Front, Back 
 ## 📫 Contato
 
 - **LinkedIn:** [in/alexandreramosdev](https://linkedin.com/in/alexandreramosdev)  
-- **GitHub:** [alexanrderamosdev](https://github.com/alexanrderamosdev)  
+- **GitHub:** [alexandreramosdev](https://github.com/alexandreramosdev)  
 - **E-mail:** alexandresantos84@gmail.com  
 
 ---
