@@ -13,10 +13,7 @@ Atualmente estou focado em fortalecer minha base em desenvolvimento web, algorit
 
 ##  Objetivos
 
-- Conseguir meu primeiro estágio em desenvolvimento
-- Construir projetos com foco em boas práticas
-- Evoluir em Front-end e Back-end
-- Aprender arquitetura de software
+Atualmente focado em fortalecer minha base em Engenharia de Software através de projetos práticos e estudos contínuos, preparando meu portfólio para oportunidades de estágio.
 
 ##  Contato
 
