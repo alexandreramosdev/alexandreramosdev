@@ -1,64 +1,24 @@
-# 👋 Olá! Sou Alexandre Ramos
+# Olá! Eu sou Alexandre Ramos 
 
-Desenvolvedor **Fullstack | Backend | Front-End** com foco em **JavaScript, TypeScript, React, Next.js e Node.js**.  
-Estudante de **ADS** na **Faculdade Impacta**, buscando oportunidade como **Estagiário** ou **Dev Júnior** para evoluir trabalhando com tecnologia moderna.
+Estudante de Engenharia de Software.
 
----
+Atualmente estou focado em fortalecer minha base em desenvolvimento web, algoritmos e engenharia de software, construindo projetos para evoluir tecnicamente e preparar meu portfólio para oportunidades de estágio.
 
-## 🧠 Stack Principal
+##  Atualmente estudando
 
-**Front-End:**  
-React · Next.js · JavaScript · TypeScript · Tailwind · HTML · CSS/Sass
+- Engenharia de Software
+- Estruturas de Dados e Algoritmos
+- JavaScript Moderno
+- Boas práticas de desenvolvimento
 
-**Back-End:**  
-Node.js · Express · Python · PostgreSQL · Prisma ORM
+##  Objetivos
 
-**Ferramentas:**  
-Git · GitHub · Linux/WSL · VS Code · Asdf/NVM
+- Conseguir meu primeiro estágio em desenvolvimento
+- Construir projetos com foco em boas práticas
+- Evoluir em Front-end e Back-end
+- Aprender arquitetura de software
 
----
-
-## 🚀 Projetos em Destaque
-
-### **Cardápio Zero — Fullstack**
-Aplicação completa para cardápio digital e fluxo de pedidos.  
-**Stack:** Next.js · React · Node · PostgreSQL · Prisma
-
----
-
-### **GoBarber (Estudo Prático)**
-Sistema de agendamento, dashboard e autenticação.  
-**Stack:** React · Node · Express
-
----
-
-### **Conta Antes**
-Aplicação mobile-first para controle de gastos em compras de mercado.  
-**Stack:** React · Next.js · Typescript · Tailwind
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/alexandreramosdev?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/alexandreramosdev?style=for-the-badge)
-
-
-</div>
-
-
-
----
-
-## 🎯 Objetivo
-
-Atuar profissionalmente como **Estagiário / Desenvolvedor Júnior (Front, Back ou Fullstack)** contribuindo com projetos reais enquanto evoluo tecnicamente todos os dias.
-
----
-
-## 📫 Contato
+##  Contato
 
 - **LinkedIn:** [in/alexandreramosdev](https://linkedin.com/in/alexandreramosdev)  
 - **GitHub:** [alexandreramosdev](https://github.com/alexandreramosdev)  
@@ -66,4 +26,4 @@ Atuar profissionalmente como **Estagiário / Desenvolvedor Júnior (Front, Back 
 
 ---
 
-*Obrigado por visitar meu perfil! 🚀*
+*Obrigado por visitar meu perfil! *
